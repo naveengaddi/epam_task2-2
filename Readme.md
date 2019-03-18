@@ -6,3 +6,10 @@ I created a client web-app using html forms as input from client processing java
 #Calculate House Cost using java.
 
 Server Program is # Calculate.java
+
+inputs is submitted throug html form
+area
+standard value
+
+output
+cost of house
